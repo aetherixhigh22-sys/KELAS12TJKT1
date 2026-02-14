@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "MATA PELAJARAN 12 TJKT 1",
+    "subtitle": "FOKUS dan KONSISTEN"
+  },
+  "classes": [
+    {
+      "id": "c1",
+      "title": "MATEMATIKA",
+      "desc": "Belajar menghitung dan membuat keputusan",
+      "lessons": 12
+    },
+    {
+      "id": "c2",
+      "title": "KIK",
+      "desc": "Kreativitas Inovasi dan Kewirausahaan",
+      "lessons": 18
+    },
+    {
+      "id": "c3",
+      "title": "PKN",
+      "desc": "BHINNEKA TUNGGAL IKA",
+      "lessons": 10
+    },
+    {
+      "id": "co5spi",
+      "title": "BAHASA INGGRIS",
+      "desc": "BAHASA INGGRIS ADALAH BAHASA INTERNATIONAL",
+      "lessons": 0
+    },
+    {
+      "id": "c673vc",
+      "title": "BAHASA INDONESIA",
+      "desc": "BAHASA INDONESIA MENGAJARKAN KITA TUTUR KATA YANG RAPI",
+      "lessons": 0
+    }
+  ]
+}
